@@ -1,0 +1,8 @@
+name: SoulEvents
+version: 1.0
+main: com.soulevents.SoulEvents
+api-version: 1.8
+commands:
+  soulevents:
+    description: Zarządzanie eventami dusz
+    usage: /soulevents
